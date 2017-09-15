@@ -1,5 +1,5 @@
 class B{
-public getData(){
+public void getData(){
 System.out.println("Hello");
 }
 }
